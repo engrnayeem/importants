@@ -1,3 +1,4 @@
 https://www.free-css.com/assets/files/free-css-templates/preview/page277/kidkinder/
 hight nia kaj korte 100% dhore kaj korte hobe pore margin padding dia height thik korte hobe layout er section er khetre.jamon heading section,navsection,footer section.
 Karon ekta website er hight content onujaye barte thake tai website er  layout hight 100%  dorte hoi.
+Tai div dia website layout bananor jonno website er layout height and width duitai 100% onujaye dorte hobe.
